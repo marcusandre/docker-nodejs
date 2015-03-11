@@ -1,7 +1,7 @@
 
-# Nodejs 0.11.14
+# Nodejs 0.12.0
 
-  This [Dockerfile](http://docker.io/) installs [Node.js](http://nodejs.org/) in version 0.11.14.
+  This [Dockerfile](http://docker.io/) installs [Node.js](http://nodejs.org/) in version 0.12.0.
 
 ## Usage
 

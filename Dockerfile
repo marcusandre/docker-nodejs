@@ -1,13 +1,13 @@
 
 #
-# Node.js v0.11.14
+# Node.js v0.12.0
 #
 # VERSION 0.0.4
 #
 
 FROM ubuntu:14.04
 MAINTAINER Marcus André <hello@marcusandre.de>
-ENV VERSION 0.11.14
+ENV VERSION 0.12.0
 
 #
 # System
