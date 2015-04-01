@@ -3,6 +3,8 @@
 
   This [Dockerfile](http://docker.io/) installs [Node.js](http://nodejs.org/) in version 0.12.0.
 
+  ![docker-badge](http://dockeri.co/image/marcusandre/nodejs)
+
 ## Usage
 
   Use it as a dependency in your own Dockerfile with:
