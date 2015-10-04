@@ -1,7 +1,7 @@
 
-# Nodejs 0.12.2
+# Nodejs 4.1.1
 
-  This [Dockerfile](http://docker.io/) installs [Node.js](http://nodejs.org/) in version 0.12.2.
+  This [Dockerfile](http://docker.io/) installs [Node.js](http://nodejs.org/) in version 4.1.1.
 
   ![docker-badge](http://dockeri.co/image/marcusandre/nodejs)
 
