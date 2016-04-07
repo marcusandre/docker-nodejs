@@ -1,6 +1,6 @@
 
 #
-# Node.js v4.1.1
+# Node.js v5.10.1
 #
 
 FROM ubuntu:14.04
