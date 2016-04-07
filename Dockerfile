@@ -5,7 +5,7 @@
 
 FROM ubuntu:14.04
 MAINTAINER Marcus André <hello@marcusandre.de>
-ENV VERSION 4.1.1
+ENV VERSION 5.10.1
 
 #
 # System
