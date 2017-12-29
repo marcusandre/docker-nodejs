@@ -1,7 +1,7 @@
-
 # Nodejs
 
-This [Dockerfile][docker] installs the latest [Node.js](http://nodejs.org/) version from [Alpine Linux][alpine-linux] [edge repository][edge-repository].
+This [Dockerfile][docker] installs the **latest** [Node.js](http://nodejs.org/)
+version from [Alpine Linux][alpine-linux] [edge repository][edge-repository].
 
 ![docker-badge](http://dockeri.co/image/marcusandre/nodejs)
 
